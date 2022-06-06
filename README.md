@@ -12,6 +12,8 @@ Outside of technology, I am a United States Airforce Veteran, music enthusiast, 
 
 <br>
 
+![Wide Icons](./assets/wideIcons.png)
+
 ## Tech Stack and Skills 💻
 
 <br>
