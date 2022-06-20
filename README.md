@@ -52,9 +52,9 @@ Outside of technology, I am a United States Airforce Veteran, music enthusiast, 
 <br>
 
 ### Cloud ☁
-||
-|-|
-|![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)|
+|||
+|-|-|
+|![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)|![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
 <br>
